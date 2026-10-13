@@ -41,7 +41,7 @@ export const RESUME_PROFILE = {
   phone: "+91-9787169246",
   email: "nithi11716@gmail.com",
   summary: "Data-focused engineering graduate with internship experience in SQL-based data extraction, Excel-based MIS reporting, data cleaning and validation, reporting automation, and Power BI dashboard development. Cleaned and validated 5,000+ records using Python (Pandas, NumPy), prepared recurring operational reports, and built KPI views to support performance tracking and business decision-making. Working knowledge of SQL/MySQL, Advanced Excel, Power BI, DAX, data modeling, and trend analysis; known for a detail-oriented approach to data accuracy and structured processes.",
-  resumeFileUrl: "/Nithishkumar_K_Data_Analyst_Resume.pdf",
+  resumeFileUrl: `${import.meta.env.BASE_URL}Nithishkumar_K_Data_Analyst_Resume.pdf`,
   links: {
     github: "https://github.com/nithishkumar",
     linkedin: "https://linkedin.com/in/nithishkumar-k",
